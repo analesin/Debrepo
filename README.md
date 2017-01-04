@@ -1,7 +1,7 @@
 # Debrepo
 Data science projects.
 
-# The first projects is an analysis of celebrity deaths from 2006-2016. In this analysis we are trying to answer the following questions. Note that this is a work in progress.
+# The first project is an analysis of celebrity deaths from 2006-2016. In this analysis we are trying to answer the following questions. Note that this is a work in progress.
 
 1) Have celebrity deaths increased from 2006 to 2016?
 
