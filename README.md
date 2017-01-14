@@ -18,3 +18,5 @@ Data science projects.
 7) What kind of celebrities are most affected by these main reasons?
 
 
+
+# The second project is an analysis of indian water quality over years 2009 through 2012 in different state and district level.We have selected four states namely Bihar, Bengal, Rajasthan and Karnataka after a preliminary assessment from a barplot to analyze the watwe quality paramters in those states.The files are Indian water quality.ipynb and the data file is India Water Quality Data.csv 
