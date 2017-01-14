@@ -19,4 +19,4 @@ Data science projects.
 
 
 
-# The second project is an analysis of indian water quality over years 2009 through 2012 in different state and district level.We have selected four states namely Bihar, Bengal, Rajasthan and Karnataka after a preliminary assessment from a barplot to analyze the water quality paramters in those states.The files are Indian water quality.ipynb and the data file is India Water Quality Data.csv 
+# The second project is an analysis of indian water quality over years 2009 through 2012 in different state and district level.We have selected four states namely Bihar, Bengal, Rajasthan and Karnataka after a preliminary assessment from a barplot to analyze the water quality paramters in those states.The files are indian_water.ipynb and the data file is India_water.csv.zip 
