@@ -19,4 +19,8 @@ Data science projects.
 
 
 
-# The second project is an analysis of indian water quality over years 2009 through 2012 in different state and district level.We have selected four states namely Bihar, Bengal, Rajasthan and Karnataka after a preliminary assessment from a barplot to analyze the water quality paramters in those states.The files are in india_water.zip which includes indian_water.ipynb and the data file is India_water.csv.zip 
+# The second project is an analysis of indian water quality over years 2009 through 2012 in different state and district level.We have selected four states namely Bihar, Bengal, Rajasthan and Karnataka after a preliminary assessment from a barplot to analyze the water quality paramters in those states.The files are in india_water.zip which includes indian_water.ipynb and the data file is India_water.csv.zip .
+
+
+
+# The third project which is still a work in progress is in coversion_challenge.zip which includes files conversion_data.csv and first_challenge.ipynb. This project includes batch processing due to large dataset to train a logistic regression and SVM model. Very interesting. More explanations to follow. So far the prediction scores are pretty satisfactory.
