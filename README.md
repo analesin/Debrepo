@@ -32,3 +32,8 @@ The second project is an analysis of indian water quality over years 2009 throug
 # 3) 
 
 The third project which is still a work in progress is in coversion_challenge.zip which includes files conversion_data.csv and first_challenge.ipynb. This project includes batch processing due to large dataset to train a logistic regression and SVM model. Very interesting. More explanations to follow. So far the prediction scores are pretty satisfactory.
+
+
+# 4)
+
+The fourth project is related to credit card fraud detection.The dataset is too big to load.The interesting thing about the dataset is that it is imbalanced so I did undersampling as a solution. The data could be undersampled more since the fraud data is very less. I used logistic regression for this dataset for prediction of fraud and non-fraud.
