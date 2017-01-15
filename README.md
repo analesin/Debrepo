@@ -36,4 +36,4 @@ The third project which is still a work in progress is in coversion_challenge.zi
 
 # 4)
 
-The fourth project is related to credit card fraud detection.The dataset is too big to load.The interesting thing about the dataset is that it is imbalanced so I did undersampling as a solution. The data could be undersampled more since the fraud data is very less. I used logistic regression for this dataset for prediction of fraud and non-fraud.
+The fourth project is related to credit card fraud detection (**fraud_detection.ipynb**).The dataset is too big to load.The interesting thing about the dataset is that it is imbalanced so I did undersampling as a solution. The data could be undersampled more since the fraud data is very less. I used logistic regression for this dataset for prediction of fraud and non-fraud.
